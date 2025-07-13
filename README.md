@@ -20,5 +20,5 @@ A Python project that simulates plant monsters with randomized attributes, battl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/plant-monster-simulator.git
+git clone https://github.com/JF-Athade/Arboria.git
 cd plant-monster-simulator
